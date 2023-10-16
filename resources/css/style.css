@@ -7,6 +7,14 @@ body {
 	border: 3px solid green;
 }
 
+.lang-menu ul {
+	border: 3px solid black;
+	padding: 1rem 3rem;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
 .submit-inquiry {
 	background-color: #ffffff;
 	color: #dd3333;
